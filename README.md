@@ -8,8 +8,8 @@ Berikut ini adalah struktur isi repository beserta deskripsi singkat tiap file:
 
 ```
 1. README.md - Penjelasan gambaran umum project
-2. P0M1_fadhola_asandi.ipynb - Notebook yang berisi pengolahan data dengan python
-3. P0M1_fadhola_asandi_dataset.csv - Dataset yang digunakan untuk analisis
+2. notebook.ipynb - Notebook yang berisi pengolahan data dengan python
+3. dataset.csv - Dataset yang digunakan untuk analisis
 4. ss-dashboard.png dan ss-dashboard-2.png - Screenshoot Dashboard
 ```
 
